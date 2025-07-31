@@ -1,0 +1,6 @@
+gesture_dataset/
+archive.zip
+gesture_model_mobilenetv2.h5
+
+__pycache__/
+*.pyc
